@@ -1,0 +1,33 @@
+h1{
+    text-align: left;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: bold;
+    font-family: cursive;
+    background-color: black;
+    color: aqua;
+}
+
+span {
+    color:white;
+}
+
+h2{
+    text-align: center;
+    text-decoration: none;
+    font-style: italic;
+    font-weight: normal;
+    font-family: sans-serif;
+    background-color: rebeccapurple;
+    color: white;
+}
+
+h3{
+    text-align: right;
+    text-decoration: underline;
+    font-style: normal;
+    font-weight: normal;
+    font-family: cursive;
+    background-color: lightblue;
+    color: rebeccapurple;
+}
